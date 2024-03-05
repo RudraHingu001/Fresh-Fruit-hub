@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3172fe93.css",
+    "main.js": "/static/js/main.9907dc88.js",
+    "static/media/blueberry.jpg": "/static/media/blueberry.d4dba082682278c35777.jpg",
+    "static/media/Part-2.jpg": "/static/media/Part-2.311d4fb7f0d4121d77ca.jpg",
+    "index.html": "/index.html",
+    "main.3172fe93.css.map": "/static/css/main.3172fe93.css.map",
+    "main.9907dc88.js.map": "/static/js/main.9907dc88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3172fe93.css",
+    "static/js/main.9907dc88.js"
+  ]
+}
